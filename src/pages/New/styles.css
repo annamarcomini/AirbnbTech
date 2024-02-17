@@ -1,0 +1,17 @@
+label#thumbnail {
+ border: 1px dashed #ddd;
+ background-size: cover;
+ cursor: pointer;
+ height: 90px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+label#thumbnail input{
+ display: none
+}
+
+label#thumbnail cam{
+
+}
