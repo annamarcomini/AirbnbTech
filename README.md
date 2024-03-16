@@ -20,6 +20,7 @@ e trabalhar usando aquele espaço, esses locais são mostrados aos usuários par
 - Baixe o código
 - baixe o código mobile  e sigo instruções de como rodar ele em seu pc ou celular https://github.com/annamarcomini/mobile
 - Baixe o código da Api e siga as instruções de como rodar ele no seu pc
+- Execute o comando Yarn
 - Execute o comando Yarn Dev neste repositório
 
 
